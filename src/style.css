@@ -1,0 +1,22 @@
+.discount{
+    color: black;
+}
+
+.body-paragraph-1{
+
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom:100px;
+}
+.paragraph-1{
+    margin-left:200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+.cards{
+    display: flex;
+}
+.card{
+    margin:50px;
+}
