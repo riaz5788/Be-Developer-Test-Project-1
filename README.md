@@ -1,2 +1,4 @@
 # Be-Developer-Test-Project-1
-# This Project is for practice
+# added 100+ iteams in index.html
+# style.css reprogramed
+# added 50+ images and products
