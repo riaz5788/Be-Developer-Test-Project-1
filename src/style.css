@@ -16,7 +16,34 @@
 }
 .cards{
     display: flex;
+    margin-bottom:50px;
+    margin:100px;
 }
 .card{
     margin:50px;
+    margin-top: 10px;
+}
+.Most-selling{
+    text-align: center;
+    font-size:25px;
+    font-weight: 600px;
+}
+
+#block-1{
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom:100px;
+    text-align: center;
+    
+
+}
+#listofcoupons{
+margin-left: 690px;
+margin-top:0px;
+padding-top: 20px;
+padding-bottom:10px;
+}
+#listofcoupons ul , li{
+    margin-bottom:10px;
+    margin-right:0px;
 }
