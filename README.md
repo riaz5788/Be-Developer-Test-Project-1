@@ -1,4 +1,5 @@
-# Be-Developer-Test-Project-1
-# index.html fully programed
-# style.css fully programmed
-# added 50+ images and products
+# Gedgets Shop BD version 2.0 
+# Added 6 more pages 
+# CSS File updated
+# Fixed some unknown bugs
+# more responsive 
